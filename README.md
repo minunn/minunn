@@ -1,16 +1,48 @@
-### Hi there 👋
-
-<!--
-**minunn/minunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
+<div align="center">
+<img src="https://media1.tenor.com/images/244ea8b3397dd192f28e5f7e770df34c/tenor.gif">
+</div>
+<br>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<img src="https://media1.tenor.com/images/0e6b79bd63ad44181e4498d854b94406/tenor.gif" align="right">
+<li>
+<b>Name:</b> Minunn</li>
+<li>
+<b>Gender:</b> Male
+</li>
+<br>
+<p><b>     Thanks for reading this<br></p>
+</div>
+<div>
+<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<p>
+<img src="https://i.ibb.co/zSrgSWh/tumblr-d13c08ddc03ff1e0ca8f1fe04bc87f4a-f92e658b-500.gif" align="right">
+</div>
+<div>
+<p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  and more ...<br><br>
+I'm also working on somes privates projects and somes other stuffs on somes games or apps.
+</p>
+<br>
+<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<br>
+<p align="center">Voici mon discord ainsi que mon twitch<br>
+<p align="center"><a href="https://discord.gg/p5Nn7VG" target="_blank"><img src="https://img.shields.io/badge/Minunn%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/minunntheturtle" target="_blank"><img src="https://img.shields.io/badge/minunntheturtle%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+</div>
+<br>
+<div>
+</div>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="http://ashleysanime.com/wp-content/uploads/king-gif-5.gif">
+</div>
+<hr>
+</div>
+</div>
+</body>
