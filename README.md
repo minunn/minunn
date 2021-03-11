@@ -25,7 +25,7 @@
 
 I'm working on somes privates projects and somes other stuffs on somes games or apps.
 </p>
-<br>
+<br><br><br><br>
   </div>
 
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
