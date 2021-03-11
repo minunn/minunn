@@ -18,7 +18,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.ibb.co/zSrgSWh/tumblr-d13c08ddc03ff1e0ca8f1fe04bc87f4a-f92e658b-500.gif" align="right">
+<img src="https://i.ibb.co/zSrgSWh/tumblr-d13c08ddc03ff1e0ca8f1fe04bc87f4a-f92e658b-500.gif" width="200" height="40" align="right">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
