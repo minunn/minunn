@@ -27,7 +27,7 @@ I'm working on somes privates projects and somes other stuffs on somes games or 
 </p>
 <br>
   </div>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <h2 align="center">📝 ~ Contact moi ~ 📝</h2>
 <img src="https://i.pinimg.com/originals/5d/aa/80/5daa80f08dd68a150d47b405c6ca812a.gif" align="right" width="373.5px" height="208.5px">
 <br>
