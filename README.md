@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://media1.tenor.com/images/244ea8b3397dd192f28e5f7e770df34c/tenor.gif">
 </div>
-<br>
+<br><br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://thumbs.gfycat.com/AbsoluteFeminineIberianbarbel-size_restricted.gif" width="373.5px" height="208.5px" align="right">
