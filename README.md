@@ -31,7 +31,7 @@ I'm also working on somes privates projects and somes other stuffs on somes game
   <br>
   <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.pinimg.com/originals/5d/aa/80/5daa80f08dd68a150d47b405c6ca812a.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Voici mon discord ainsi que mon twitch<br>
 <p align="center"><a href="https://discord.gg/p5Nn7VG" target="_blank"><img src="https://img.shields.io/badge/Minunn%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
