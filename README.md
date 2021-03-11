@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://thumbs.gfycat.com/AbsoluteFeminineIberianbarbel-size_restricted.gif" align="right">
+<img src="https://thumbs.gfycat.com/AbsoluteFeminineIberianbarbel-size_restricted.gif" width="373.5px" height="208.5px" align="right">
 <li>
 <b>Name:</b> Minunn</li>
 <li>
@@ -18,7 +18,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.ibb.co/zSrgSWh/tumblr-d13c08ddc03ff1e0ca8f1fe04bc87f4a-f92e658b-500.gif" width="10" height="40" align="right">
+<img src="https://i.ibb.co/zSrgSWh/tumblr-d13c08ddc03ff1e0ca8f1fe04bc87f4a-f92e658b-500.gif" width="373.5px" height="208.5px" align="right">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
@@ -43,7 +43,7 @@ I'm also working on somes privates projects and somes other stuffs on somes game
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="http://ashleysanime.com/wp-content/uploads/king-gif-5.gif">
+<img src="http://ashleysanime.com/wp-content/uploads/king-gif-5.gif" width="373.5px" height="208.5px">
 </div>
 <hr>
 </div>
