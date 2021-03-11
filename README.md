@@ -14,7 +14,6 @@
 <b>Gender:</b> Male
 </li>
 <br>
-<p><b>     Thanks for reading this<br></p>
 </div>
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
@@ -27,6 +26,7 @@
 I'm also working on somes privates projects and somes other stuffs on somes games or apps.
 </p>
 <br>
+  </div>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
