@@ -16,6 +16,9 @@
 <br>
 </div>
 <div>
+  <br>
+  <br>
+  <br><br>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
 <img src="https://i.ibb.co/zSrgSWh/tumblr-d13c08ddc03ff1e0ca8f1fe04bc87f4a-f92e658b-500.gif" width="373.5px" height="208.5px" align="right">
