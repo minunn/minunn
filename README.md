@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://media1.tenor.com/images/244ea8b3397dd192f28e5f7e770df34c/tenor.gif">
 </div>
-<br>
+<br><br><br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://thumbs.gfycat.com/AbsoluteFeminineIberianbarbel-size_restricted.gif" width="373.5px" height="208.5px" align="right">
@@ -16,7 +16,7 @@
 <br>
 </div>
 <div>
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
 <img src="https://i.ibb.co/zSrgSWh/tumblr-d13c08ddc03ff1e0ca8f1fe04bc87f4a-f92e658b-500.gif" width="373.5px" height="208.5px" align="right">
@@ -25,7 +25,7 @@
 
 I'm working on somes privates projects and somes other stuffs on somes games or apps.
 </p>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
   </div>
 
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
@@ -38,7 +38,7 @@ I'm working on somes privates projects and somes other stuffs on somes games or 
 <br>
 <div>
 </div>
-<div>
+<div><br><br>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="http://ashleysanime.com/wp-content/uploads/king-gif-5.gif">
