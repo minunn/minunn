@@ -42,7 +42,7 @@ I'm also working on somes privates projects and somes other stuffs on somes game
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="http://ashleysanime.com/wp-content/uploads/king-gif-5.gif" width="373.5px" height="208.5px">
+<img src="http://ashleysanime.com/wp-content/uploads/king-gif-5.gif">
 </div>
 <hr>
 </div>
