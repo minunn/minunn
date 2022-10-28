@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+welcome+to+my+profile;I+love+Github.;I+love+learning.&center=true&width=500&height=50"></a>
 </p>
+<p align="center"> https://www.linkedin.com/in/marco-mini/ </p>
 <!-- What i do most of the time -->
 <h2 align="center">~ <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47q4q8qlwl1ixngdpynw6vwgnkzlgm24ug0wau2mj2&rid=giphy.gif" width="30"> What i do most of the time <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47q4q8qlwl1ixngdpynw6vwgnkzlgm24ug0wau2mj2&rid=giphy.gif" width="30"> ~</h2>
 <p align="center">I'm working on somes privates projects and somes other public projects / or stuffs on somes games or apps.</p>
