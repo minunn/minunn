@@ -23,7 +23,8 @@
  
  
 <br/>
-Currently a 3rd year student in software engineering, I would like to specialize in application development. Having participated in my school (IN'TECH), in various IT projects and human training, I also have the necessary skills in project management and planning.
+Currently a 4th year student in software engineering, I would like to specialize in application development. Having participated in my school (IN'TECH), in various IT projects and human training, I also have the necessary skills in project management and planning.
+Currently fullstack intern at a company mainly using react/java and graphQL
 <!-- Thanks for reading me ! -->
 <h2 align="center"><img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> ~ Thanks for reading me ! ~ <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"></h2>
 
