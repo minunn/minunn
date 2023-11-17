@@ -18,7 +18,7 @@
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me ! 
 <h1 align="center">Hey there! 👋</h1>
 <p align="center" style="font-size: 18px;">I'm a 4th-year software engineering enthusiast on a quest to master the art of application development. My IN'TECH adventure has been marked by exciting IT projects, human training, and the invaluable skills of project management.</p>
-<p align="center" style="font-size: 18px;">Currently, I'm a <strong>Fullstack Developer</strong> intern at a company, predominantly working with React, GraphQL, and more. In the last 6 months, I dedicated my time to crafting an app in React Native, though these projects aren't public or open source.</p>
+<p align="center" style="font-size: 18px;">Currently, I'm a <strong>Fullstack Developer</strong> intern at a company, predominantly working with Java, React, GraphQL, and more. In the last 6 months, I dedicated my time to crafting an app in React Native, though these projects aren't public or open source.</p>
 
 <!-- Thanks for Reading Section -->
 <h1 align="center">~ 🙏 Thanks for Reading! 🙏 ~</h1>
