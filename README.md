@@ -18,7 +18,7 @@
 <!-- About Me Section -->
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me ! 
 <h1 align="center">Hey there! 👋</h1>
-<p align="center" style="font-size: 18px;">I'm a 5th-year software engineering enthusiast on a quest to master the art of application development. My journey at IN'TECH now ESIEA has been marked by exciting IT projects, human training, and invaluable project management skills.</p>
+<p align="center" style="font-size: 18px;">I'm a 4th-year software engineering enthusiast on a quest to master the art of application development. My journey at IN'TECH now ESIEA has been marked by exciting IT projects, human training, and invaluable project management skills.</p>
 <p align="center" style="font-size: 18px;">Currently, I'm a <strong>Fullstack Developer</strong> intern, predominantly working with Java, React, GraphQL, and more. I dedicated a significant portion of my time to crafting an app in React Native until September 2023. Since then, I've been working on other projects, though these are not public or open source. Soon, I'll be a 5th-year software engineering enthusiast, continuing my pursuit to excel in application development.</p>
 
 <!-- Thanks for Reading Section -->
